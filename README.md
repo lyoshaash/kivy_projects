@@ -3,7 +3,7 @@ linux software development course report repo
 
 
 ## lab3
-![lab31](lab31.png)  
+![lab31](labsscreencaps/lab31.png)  
 ![lab32](lab32.png)  
 ![lab33](lab33.png)  
 ![lab34](lab34.png)  
